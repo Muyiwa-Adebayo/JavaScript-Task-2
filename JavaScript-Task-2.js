@@ -36,5 +36,4 @@ let intrestCalculator = array => {
     return interestData
 }
 
-console.log(intrestCalculator(data));
-console.log('Test!')
+intrestCalculator(data);
